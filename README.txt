@@ -7,6 +7,3 @@ Files Included:
 
 - GroupProject.db
 	Our database created using sqlite
-
--Group Project Final Report.pdf
-	Our Final Report
